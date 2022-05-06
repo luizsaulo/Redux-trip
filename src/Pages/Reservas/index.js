@@ -23,8 +23,9 @@ export default function Reservas() {
         </div>
 
         <footer>
-            <button type='button'>Solicitar Reservas</button>
-          </footer>
+          <button type='button'>Solicitar Reservas</button>
+        </footer>
+        
     </div>
   )
 }
