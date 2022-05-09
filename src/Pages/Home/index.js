@@ -21,7 +21,7 @@ export default function Home() {
 
   function handleAdd(trip){
     dispatch({
-      type: 'AAD_RESERVE',
+      type: 'ADD_RESERVE',
       trip
     });
   }
